@@ -1,0 +1,44 @@
+.admin-body {
+    background-color: #101114;
+    color: #f1f1f1;
+    min-height: 100vh;
+}
+
+.admin-body h1 {
+    color: #ffffff;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+}
+
+.admin-description {
+    color: #b8b8c0;
+    margin-bottom: 35px;
+}
+
+.admin-card {
+    background-color: #1c1d23;
+    border: 1px solid #383943;
+    border-radius: 12px;
+    padding: 22px;
+    margin-bottom: 18px;
+    color: #f1f1f1;
+}
+
+.admin-card h5 {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.admin-card p {
+    color: #c9c9d2;
+    margin-bottom: 8px;
+}
+
+.admin-card strong {
+    color: #a5a0ff;
+}
+
+.admin-body .btn-secondary {
+    background-color: #383943;
+    border-color: #383943;
+}
